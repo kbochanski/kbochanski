@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in the AgTech space!
-- 💬 Ask me about ...
 - 📫 How to reach me: Preferably email at `kbochansk@gmail.com`!
 
 My day-to-day
