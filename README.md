@@ -15,7 +15,7 @@ My day-to-day
 
 - writing applications for business process automation ❤️ FastAPI + React
 
-- ensuring quality products by following a test-driven approach - pytest/tox/coverage reports for python, vitest/cypress for typescript
+- ensuring quality products by following a test-driven approach - pytest/tox/coverage reports for python, vitest/playwright for typescript
 
-- writing high level design documents (HLDs) in order to ensure any product I work on is justified and optimally designed to best meet the needs of the business
+- writing high level design documents in order to ensure any product I work on is justified and optimally designed to best meet the needs of the business
 
